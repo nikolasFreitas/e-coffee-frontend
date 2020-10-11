@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/e-coffee-frontend/static/js/main.dc3099d7.chunk.js",
+    "main.js.map": "/e-coffee-frontend/static/js/main.dc3099d7.chunk.js.map",
+    "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.e6388521.js",
+    "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.e6388521.js.map",
+    "static/js/2.9547190f.chunk.js": "/e-coffee-frontend/static/js/2.9547190f.chunk.js",
+    "static/js/2.9547190f.chunk.js.map": "/e-coffee-frontend/static/js/2.9547190f.chunk.js.map",
+    "index.html": "/e-coffee-frontend/index.html",
+    "precache-manifest.05e98a106e78044a3ab71e7239abc366.js": "/e-coffee-frontend/precache-manifest.05e98a106e78044a3ab71e7239abc366.js",
+    "service-worker.js": "/e-coffee-frontend/service-worker.js",
+    "static/js/2.9547190f.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.9547190f.chunk.js.LICENSE.txt",
+    "static/media/coffee.svg": "/e-coffee-frontend/static/media/coffee.95a76351.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6388521.js",
+    "static/js/2.9547190f.chunk.js",
+    "static/js/main.dc3099d7.chunk.js"
+  ]
+}
