@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/e-coffee-frontend/static/js/main.3bc859b6.chunk.js",
-    "main.js.map": "/e-coffee-frontend/static/js/main.3bc859b6.chunk.js.map",
+    "main.js": "/e-coffee-frontend/static/js/main.6548cfbe.chunk.js",
+    "main.js.map": "/e-coffee-frontend/static/js/main.6548cfbe.chunk.js.map",
     "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.e6388521.js",
     "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.e6388521.js.map",
-    "static/js/2.20e78e15.chunk.js": "/e-coffee-frontend/static/js/2.20e78e15.chunk.js",
-    "static/js/2.20e78e15.chunk.js.map": "/e-coffee-frontend/static/js/2.20e78e15.chunk.js.map",
+    "static/js/2.a14247e2.chunk.js": "/e-coffee-frontend/static/js/2.a14247e2.chunk.js",
+    "static/js/2.a14247e2.chunk.js.map": "/e-coffee-frontend/static/js/2.a14247e2.chunk.js.map",
     "index.html": "/e-coffee-frontend/index.html",
-    "precache-manifest.05a18b01c903a5ee71b77ace78c359ee.js": "/e-coffee-frontend/precache-manifest.05a18b01c903a5ee71b77ace78c359ee.js",
+    "precache-manifest.6644c43411f155950de36efb7b904b44.js": "/e-coffee-frontend/precache-manifest.6644c43411f155950de36efb7b904b44.js",
     "service-worker.js": "/e-coffee-frontend/service-worker.js",
-    "static/js/2.20e78e15.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.20e78e15.chunk.js.LICENSE.txt",
+    "static/js/2.a14247e2.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.a14247e2.chunk.js.LICENSE.txt",
     "static/media/coffee.svg": "/e-coffee-frontend/static/media/coffee.95a76351.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6388521.js",
-    "static/js/2.20e78e15.chunk.js",
-    "static/js/main.3bc859b6.chunk.js"
+    "static/js/2.a14247e2.chunk.js",
+    "static/js/main.6548cfbe.chunk.js"
   ]
 }
