@@ -1,0 +1,2 @@
+(this["webpackJsonpe-coffee-frontend"]=this["webpackJsonpe-coffee-frontend"]||[]).push([[3],{43:function(e){e.exports=JSON.parse('{"recomendations":{"title":"Clientes tamb\xe9m gostaram"},"shops":{"title":"Buscando lojas pr\xf3ximas de voc\xea?","subtitle":"Aqui est\xe3o algumas"}}')}}]);
+//# sourceMappingURL=3.8a6331fc.chunk.js.map
