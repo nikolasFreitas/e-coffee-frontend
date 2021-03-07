@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.js": "/e-coffee-frontend/static/js/main.b4e4f786.chunk.js",
-    "main.js.map": "/e-coffee-frontend/static/js/main.b4e4f786.chunk.js.map",
+    "main.js": "/e-coffee-frontend/static/js/main.92a539fe.chunk.js",
+    "main.js.map": "/e-coffee-frontend/static/js/main.92a539fe.chunk.js.map",
     "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.e6388521.js",
     "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.e6388521.js.map",
-    "static/js/2.775ea339.chunk.js": "/e-coffee-frontend/static/js/2.775ea339.chunk.js",
-    "static/js/2.775ea339.chunk.js.map": "/e-coffee-frontend/static/js/2.775ea339.chunk.js.map",
+    "static/js/2.a6666898.chunk.js": "/e-coffee-frontend/static/js/2.a6666898.chunk.js",
+    "static/js/2.a6666898.chunk.js.map": "/e-coffee-frontend/static/js/2.a6666898.chunk.js.map",
     "index.html": "/e-coffee-frontend/index.html",
-    "precache-manifest.e7ddd213d35a60f1d235f8d02abaf9b3.js": "/e-coffee-frontend/precache-manifest.e7ddd213d35a60f1d235f8d02abaf9b3.js",
+    "precache-manifest.a2a386ad9fee45fc75b405cefb043e85.js": "/e-coffee-frontend/precache-manifest.a2a386ad9fee45fc75b405cefb043e85.js",
     "service-worker.js": "/e-coffee-frontend/service-worker.js",
-    "static/js/2.775ea339.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.775ea339.chunk.js.LICENSE.txt",
+    "static/js/2.a6666898.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.a6666898.chunk.js.LICENSE.txt",
     "static/media/cart.svg": "/e-coffee-frontend/static/media/cart.38dae47f.svg",
     "static/media/coffee.svg": "/e-coffee-frontend/static/media/coffee.95a76351.svg",
     "static/media/down-rating-coffee.svg": "/e-coffee-frontend/static/media/down-rating-coffee.063d5b24.svg",
     "static/media/left-chevron.svg": "/e-coffee-frontend/static/media/left-chevron.c5b73bfd.svg",
     "static/media/right-chevron.svg": "/e-coffee-frontend/static/media/right-chevron.6cea9b53.svg",
+    "static/media/undraw_empty_xct9.svg": "/e-coffee-frontend/static/media/undraw_empty_xct9.cfb49f55.svg",
     "static/media/up-rating-coffee.svg": "/e-coffee-frontend/static/media/up-rating-coffee.5696dd50.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6388521.js",
-    "static/js/2.775ea339.chunk.js",
-    "static/js/main.b4e4f786.chunk.js"
+    "static/js/2.a6666898.chunk.js",
+    "static/js/main.92a539fe.chunk.js"
   ]
 }
