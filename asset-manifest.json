@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.js": "/e-coffee-frontend/static/js/main.92a539fe.chunk.js",
-    "main.js.map": "/e-coffee-frontend/static/js/main.92a539fe.chunk.js.map",
-    "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.e6388521.js",
-    "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.e6388521.js.map",
-    "static/js/2.a6666898.chunk.js": "/e-coffee-frontend/static/js/2.a6666898.chunk.js",
-    "static/js/2.a6666898.chunk.js.map": "/e-coffee-frontend/static/js/2.a6666898.chunk.js.map",
+    "static/js/0.2713c7ac.chunk.js": "/e-coffee-frontend/static/js/0.2713c7ac.chunk.js",
+    "static/js/0.2713c7ac.chunk.js.map": "/e-coffee-frontend/static/js/0.2713c7ac.chunk.js.map",
+    "main.js": "/e-coffee-frontend/static/js/main.c259da88.chunk.js",
+    "main.js.map": "/e-coffee-frontend/static/js/main.c259da88.chunk.js.map",
+    "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.f2a39d4f.js",
+    "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.f2a39d4f.js.map",
+    "static/js/3.9ca9d990.chunk.js": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js",
+    "static/js/3.9ca9d990.chunk.js.map": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js.map",
     "index.html": "/e-coffee-frontend/index.html",
-    "precache-manifest.a2a386ad9fee45fc75b405cefb043e85.js": "/e-coffee-frontend/precache-manifest.a2a386ad9fee45fc75b405cefb043e85.js",
+    "precache-manifest.ffb66e32cf41d18d70989f59f5c82e3c.js": "/e-coffee-frontend/precache-manifest.ffb66e32cf41d18d70989f59f5c82e3c.js",
     "service-worker.js": "/e-coffee-frontend/service-worker.js",
-    "static/js/2.a6666898.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/2.a6666898.chunk.js.LICENSE.txt",
+    "static/js/3.9ca9d990.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js.LICENSE.txt",
     "static/media/cart.svg": "/e-coffee-frontend/static/media/cart.38dae47f.svg",
     "static/media/coffee.svg": "/e-coffee-frontend/static/media/coffee.95a76351.svg",
     "static/media/down-rating-coffee.svg": "/e-coffee-frontend/static/media/down-rating-coffee.063d5b24.svg",
@@ -19,8 +21,8 @@
     "static/media/up-rating-coffee.svg": "/e-coffee-frontend/static/media/up-rating-coffee.5696dd50.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6388521.js",
-    "static/js/2.a6666898.chunk.js",
-    "static/js/main.92a539fe.chunk.js"
+    "static/js/runtime-main.f2a39d4f.js",
+    "static/js/3.9ca9d990.chunk.js",
+    "static/js/main.c259da88.chunk.js"
   ]
 }
