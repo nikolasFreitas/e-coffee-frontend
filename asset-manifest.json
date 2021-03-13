@@ -1,15 +1,15 @@
 {
   "files": {
-    "static/js/0.2713c7ac.chunk.js": "/e-coffee-frontend/static/js/0.2713c7ac.chunk.js",
-    "static/js/0.2713c7ac.chunk.js.map": "/e-coffee-frontend/static/js/0.2713c7ac.chunk.js.map",
-    "main.js": "/e-coffee-frontend/static/js/main.db95d925.chunk.js",
-    "main.js.map": "/e-coffee-frontend/static/js/main.db95d925.chunk.js.map",
-    "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.f2a39d4f.js",
-    "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.f2a39d4f.js.map",
+    "static/js/0.44042b7f.chunk.js": "/e-coffee-frontend/static/js/0.44042b7f.chunk.js",
+    "static/js/0.44042b7f.chunk.js.map": "/e-coffee-frontend/static/js/0.44042b7f.chunk.js.map",
+    "main.js": "/e-coffee-frontend/static/js/main.a5c36ef2.chunk.js",
+    "main.js.map": "/e-coffee-frontend/static/js/main.a5c36ef2.chunk.js.map",
+    "runtime-main.js": "/e-coffee-frontend/static/js/runtime-main.d18de376.js",
+    "runtime-main.js.map": "/e-coffee-frontend/static/js/runtime-main.d18de376.js.map",
     "static/js/3.9ca9d990.chunk.js": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js",
     "static/js/3.9ca9d990.chunk.js.map": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js.map",
     "index.html": "/e-coffee-frontend/index.html",
-    "precache-manifest.8f1389c7064dfc5bbef80fc43ed19b2d.js": "/e-coffee-frontend/precache-manifest.8f1389c7064dfc5bbef80fc43ed19b2d.js",
+    "precache-manifest.fe2b33f49934061a6b9a527085f73a2e.js": "/e-coffee-frontend/precache-manifest.fe2b33f49934061a6b9a527085f73a2e.js",
     "service-worker.js": "/e-coffee-frontend/service-worker.js",
     "static/js/3.9ca9d990.chunk.js.LICENSE.txt": "/e-coffee-frontend/static/js/3.9ca9d990.chunk.js.LICENSE.txt",
     "static/media/cart.svg": "/e-coffee-frontend/static/media/cart.38dae47f.svg",
@@ -21,8 +21,8 @@
     "static/media/up-rating-coffee.svg": "/e-coffee-frontend/static/media/up-rating-coffee.5696dd50.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2a39d4f.js",
+    "static/js/runtime-main.d18de376.js",
     "static/js/3.9ca9d990.chunk.js",
-    "static/js/main.db95d925.chunk.js"
+    "static/js/main.a5c36ef2.chunk.js"
   ]
 }
